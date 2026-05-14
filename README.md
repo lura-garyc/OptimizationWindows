@@ -1,2 +1,12 @@
-# OptimizationWindows
-lol, kek, optimization, comfort
+# 🚀 OP Windows Ultimate
+
+**Disclaimer: This app modifies the system registry. Use it at your own risk!**
+
+A lightweight tool designed to optimize your Windows experience and remove unnecessary delays.
+
+### ✨ Key Features:
+* **Visuals:** Remove shortcut arrows and restore the Windows 10 style taskbar menu.
+* **Network:** Switch to a faster DNS (Cloudflare 1.1.1.1) for better ping and privacy.
+* **Privacy:** Disable system error reporting and telemetry.
+* **Performance:** Speed up the closing of "unresponsive" apps and instant temp folder cleanup.
+* **Fixes:** Built-in "Nuclear" Icon Cache reset to fix white icons or black squares.
