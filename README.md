@@ -1,6 +1,6 @@
 # 🚀 OP Windows Ultimate
 
-**Disclaimer: This app modifies the system registry. Use it at your own risk!**(The Browser-Velocity project is being archived. As of 16.05.2026 19:18, development will cease, and no new updates will be released. The source code will remain available on GitHub in case anyone wishes to continue developing the project)
+**Disclaimer: This app modifies the system registry. Use it at your own risk!**(The OP-Windows project is being archived. As of 16.05.2026 19:18, development will cease, and no new updates will be released. The source code will remain available on GitHub in case anyone wishes to continue developing the project)
 
 A lightweight tool designed to optimize your Windows experience and remove unnecessary delays.
 
